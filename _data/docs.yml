@@ -3,10 +3,10 @@
   - home
   - themes
   - customization
+  - first-doc
 
 - title: Examples
   docs:
-  - first-doc
   - cheatsheet
   - font-awesome
   - bootstrap
