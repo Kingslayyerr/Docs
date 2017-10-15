@@ -1,9 +1,10 @@
-- title: Getting Started
+- title: Github Desktop
   docs:
+  - first-doc
   - home
   - themes
   - customization
-  - first-doc
+  
 
 - title: Examples
   docs:
