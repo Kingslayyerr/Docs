@@ -1,8 +1,7 @@
 ---
-title: Cloning a repository with GitHub Desktop.
-permalink: /docs/second-doc/
+title: Make a pull request.
+permalink: /docs/seventh-doc/
 ---
-
 
 |               |               |   
 | ------------- |:-------------:| 
@@ -12,6 +11,3 @@ permalink: /docs/second-doc/
 | 4. In the description box, give a brief description of what your project will be. |                       |
 | 5. Select **Public.** |                       |
 | 6. Select **Initialize this repository with a README.** |    |
-| 7. Leave the boxes under this option as they are (add git.ignore **none** - add a license **none**) |   |
-| 8. Click **Create Repository.** |  |
-
