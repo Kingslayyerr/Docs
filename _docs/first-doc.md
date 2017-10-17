@@ -1,8 +1,8 @@
 ---
-title: Getting Started
+title: Creating a repository on Github.
 permalink: /docs/first-doc/
 ---
 
 
 
-### Getting started with GitHub Desktop.
+### Steps.

@@ -1,18 +1,18 @@
 ---
-title: Welcome
+title: Getting Started
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+## Intro
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published in the webpage instantly.
+A beginner friendly introduction to using Git version control through the GitHub Desktop application. By the end of this module, users will be able to create new repositories, clone existing repositories to a local development environment, add new files to a repo(make changes), create a commit, make comments on the commit, make a new branch, push the changes to GitHub, make a pull request, merge changes, and delete the created branch. Slightly more advanced users will also learn how to fork an open source repo,and make branches and pull requests for proposed changes to a real software project.
 
-1. Just download the source from [github.com/aksakalli/jekyll-doc-theme](https://github.com/aksakalli/jekyll-doc-theme/master) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project.
-3. Replace `favicon.ico` and `img/logonav.png` with your own logo.
+## Pre-requisites
+
+* Create a GitHub account at github.com
+* Familiarity with a Text Editor such as Sublime or Atom
+
 
 ## Writing content
 
